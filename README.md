@@ -30,6 +30,7 @@ I am a Full-Stack Developer, AI/ML Engineer, and Embedded Systems enthusiast. I 
 
 * 🍲 **[FoodLinkAI](https://github.com/your-username/foodlink-ai):** Surplus food exchange platform featuring a FastAPI backend, PostgreSQL database, OAuth2 JWT security, and a Scikit-learn food expiration urgency model.
 * 🚦 **[Smart Adaptive Speed Breaker System](https://github.com/your-username/smart-speed-breaker):** IoT dynamic traffic calming hardware using dual ESP8266 nodes, IR speed sensors, ESP-NOW peer-to-peer communication, and servo actuation.
+* ✈️ AI Travel Planner: Intelligent itinerary generation platform utilizing Generative AI, Next.js, and FastAPI for personalized travel and route recommendations.
 * 🛣️ **[PotholeRisk](https://github.com/your-username/pothole-risk):** Dynamic road safety prediction system built on Dynamic Bayesian Networks (DBN) and Poisson traffic exposure modeling.
 * 📖 **[EchoTale](https://github.com/your-username/echotale):** Multi-modal web novel reading application integrating automated text-to-speech narration and generative AI illustrations.
 * ☀️ **[Solar Defect & Dust Classifier](https://github.com/your-username/solar-defect-classifier):** Deep learning vision pipeline leveraging TensorFlow/Keras and CNN architectures (ResNet50, MobileNetV2) for photovoltaic panel defect detection.
