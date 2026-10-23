@@ -47,4 +47,4 @@ I am a Full-Stack Developer, AI/ML Engineer, and Embedded Systems enthusiast. I 
 ### 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/tejasm01](https://linkedin.com)
 - **Email:** tejasm.6069@gmail.com
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** [https://codebytejas.fastcrab128.chatgpt.site/](https://codebytejas.fastcrab128.chatgpt.site/)
