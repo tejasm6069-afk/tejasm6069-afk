@@ -28,14 +28,14 @@ I am a Full-Stack Developer, AI/ML Engineer, and Embedded Systems enthusiast. I 
 
 ### 📌 Featured Projects
 
-* 🍲 **[FoodLinkAI](https://github.com/your-username/foodlink-ai):** Surplus food exchange platform featuring a FastAPI backend, PostgreSQL database, OAuth2 JWT security, and a Scikit-learn food expiration urgency model.
-* 🚦 **[Smart Adaptive Speed Breaker System](https://github.com/your-username/smart-speed-breaker):** IoT dynamic traffic calming hardware using dual ESP8266 nodes, IR speed sensors, ESP-NOW peer-to-peer communication, and servo actuation.
-* ✈️ AI Travel Planner: Intelligent itinerary generation platform utilizing Generative AI, Next.js, and FastAPI for personalized travel and route recommendations.
-* 🛣️ **[PotholeRisk](https://github.com/your-username/pothole-risk):** Dynamic road safety prediction system built on Dynamic Bayesian Networks (DBN) and Poisson traffic exposure modeling.
-* 📖 **[EchoTale](https://github.com/your-username/echotale):** Multi-modal web novel reading application integrating automated text-to-speech narration and generative AI illustrations.
-* ☀️ **[Solar Defect & Dust Classifier](https://github.com/your-username/solar-defect-classifier):** Deep learning vision pipeline leveraging TensorFlow/Keras and CNN architectures (ResNet50, MobileNetV2) for photovoltaic panel defect detection.
-* 💼 **[CareerEngine](https://github.com/your-username/career-engine):** Open-source candidate-focused career intelligence platform and ATS.
-* 🗣️ **[Parkinson's Voice Feature Analysis API](https://github.com/your-username/parkinsons-voice-analysis):** Acoustic feature extractor and Random Forest classification backend hosted on FastAPI and Supabase.
+* 🍲 **[FoodLinkAI](https://github.com/tejasm6069-afk/foodlink-ai):** Surplus food exchange platform featuring a FastAPI backend, PostgreSQL database, OAuth2 JWT security, and a Scikit-learn food expiration urgency model.
+* 🚦 **[Smart Adaptive Speed Breaker System](https://github.com/tejasm6069-afk/smart-speed-breaker):** IoT dynamic traffic calming hardware using dual ESP8266 nodes, IR speed sensors, ESP-NOW peer-to-peer communication, and servo actuation.
+* ✈️ **[AI Travel Planner](https://github.com/tejasm6069-afk/ai-travel-planner.git): Intelligent itinerary generation platform utilizing Generative AI, Next.js, and FastAPI for personalized travel and route recommendations.
+* 🛣️ **[PotholeRisk](https://github.com/tejasm6069-afk/pothole-risk):** Dynamic road safety prediction system built on Dynamic Bayesian Networks (DBN) and Poisson traffic exposure modeling.
+* 📖 **[EchoTale](https://github.com/tejasm6069-afk/echotale):** Multi-modal web novel reading application integrating automated text-to-speech narration and generative AI illustrations.
+* ☀️ **[Solar Defect & Dust Classifier](https://github.com/tejasm6069-afk/solar-defect-classifier):** Deep learning vision pipeline leveraging TensorFlow/Keras and CNN architectures (ResNet50, MobileNetV2) for photovoltaic panel defect detection.
+* 💼 **[CareerEngine](https://github.com/tejasm6069-afk/career-engine):** Open-source candidate-focused career intelligence platform and ATS.
+* 🗣️ **[Parkinson's Voice Feature Analysis API](https://github.com/tejasm6069-afk/parkinsons-voice-analysis):** Acoustic feature extractor and Random Forest classification backend hosted on FastAPI and Supabase.
 
 ---
 
@@ -46,6 +46,6 @@ I am a Full-Stack Developer, AI/ML Engineer, and Embedded Systems enthusiast. I 
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/tejasm01](https://linkedin.com)
-- **Email:** tejasm.6069@gmail.com
+- **LinkedIn:** [linkedin.com/in/tejasm01](linkedin.com/in/tejasm01)
+- **Email:** [tejasm.6069@gmail.com](tejasm.6069@gmail.com)
 - **Portfolio:** [https://codebytejas.fastcrab128.chatgpt.site/](https://codebytejas.fastcrab128.chatgpt.site/)
